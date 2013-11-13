@@ -2,5 +2,6 @@ public Class HolaMundo{
 
 	public static void main(String args[]){
 		System.out.println("Hola mundo con repositorios");
+		System.out.println("Otra cosa que imprimo");
 	}
 }
